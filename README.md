@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Su Myat Myat Htay</h1>
 <h3 align="center">A passionate Information Technology student from Singapore</h3>
 
-- 🔭 I’m currently building a [Mooodify](https://github.com/SuMyatMyatHtay/Mooodify) and [HackMate](https://github.com/SuMyatMyatHtay/HackMate)
+- 🔭 I’m currently building a [Mooodify](https://github.com/SuMyatMyatHtay/Mooodify)
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **React, NodeJS, C#**
 
 - 📫 How to reach me **summh11@gmail.com**
+
+- 🔥 I have a passion in **creating 3D models**
 
 - ⚡ Fun fact **I am training for Life Saving Bronze Madallion test**
 
