@@ -7,9 +7,11 @@
 
 - 👯 I’m currently working with **Hackmate Team**
 
-- 💬 Ask me about **React, NodeJS, C#**
+- 💬 Ask me about **Unity, Blender, React, NodeJS, C#**
 
 - 📫 How to reach me **summh11@gmail.com**
+
+- 🔥 I have a passion in **Creating 3D Models**
 
 - ⚡ Fun fact **I am training for Life Saving Bronze Madallion test**
 
