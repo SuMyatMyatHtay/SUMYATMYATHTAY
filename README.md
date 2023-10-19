@@ -7,7 +7,7 @@
 
 - 👯 I’m currently working with **Hackathon Gang**
 
-- 💬 Ask me about **React, NodeJS, C#**
+- 💬 Ask me about **React, NodeJS, C#, Unity, Blender**
 
 - 📫 How to reach me **summh11@gmail.com**
 
