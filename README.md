@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m currently working with **Hackmate Team**
+- 👯 I’m currently working with **Hackathon Gang**
 
 - 💬 Ask me about **React, NodeJS, C#**
 
