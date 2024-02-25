@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Su Myat Myat Htay</h1>
 <h3 align="center">A passionate Information Technology student from Singapore Polytechnic</h3>
 
-- 🔭 I’m currently building a [Mooodify](https://github.com/SuMyatMyatHtay/Mooodify)
 
 - 🌱 I’m currently learning **NextJS**
-
-- 👯 I’m currently working with **Hackathon Gang**
 
 - 💬 Ask me about **Unity, Blender, React, NodeJS, C#**
 
