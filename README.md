@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Information Technology student from Singapore Polytechnic</h3>
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Angular and Laravel**
 
 - 💬 Ask me about **Unity, Blender, React, NodeJS, C#**
 
